@@ -1,0 +1,1 @@
+<footer>đây là nội dung footer</footer>
